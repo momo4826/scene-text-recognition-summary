@@ -2,9 +2,9 @@
 If you're new to Scene Text Recognition or want to get a review, all you need is included here.
 
 Contents
-1. [Papers](#1. Paper and quick summary)
-2. [Toolkits](#2. Toolkits)
-3. [Datasets](#3. Datasets)
+1. [Papers](#1paper-and-quick-summary)
+2. [Toolkits](#2Toolkits)
+3. [Datasets](#3Datasets)
 
 ## 1. Paper and quick summary
 | Published Year  | Paper Title | Quick Summary | Blogs Sources | Implementations |
